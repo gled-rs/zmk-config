@@ -33,7 +33,7 @@
 			bindings = <
 &kp GRAVE  &kp F1     &kp F2     &kp F3     &kp F4     &kp F5     &kp F6     &kp F7     &kp F8     &kp F9     &kp F10    &kp F11    &kp F12    &kp DEL
 &trans     &kp PG_UP  &kp UP     &kp PG_DN  &none      &none      &none      &none      &none      &none      &kp PSCRN  &kp HOME   &kp PAUSE_BREAK  &none
-&trans     &kp LEFT 0 &kp DOWN   &kp RIGHT  &none      &none      &none      &none      &none      &none      &kp INS    &kp END      &trans
+&trans     &kp LEFT   &kp DOWN   &kp RIGHT  &none      &none      &none      &none      &none      &none      &kp INS    &kp END      &trans
 &trans                &none      &none      &none      &none      &none      &none      &kp C_PP   &kp V_COL_DN  &kp C_VOL_UP &kp C_MUTE     &trans
 &trans       &trans       &trans       &trans                                                                     &trans     &trans     &trans     &trans
 			>;
