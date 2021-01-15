@@ -1,4 +1,4 @@
-# Fully opensource M60 keyboard custom config for zmk firmware
+# opensource M60 keyboard config for zmk firmware
 
 Firmware: https://github.com/zmkfirmware/zmk/
 
